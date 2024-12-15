@@ -1,6 +1,6 @@
 # debugging-decorators
 
-This is a module for debugging purposes, though you might use it with another purposes. 
-No documentation for now, but maybe I'll add some. 
+This is a module for debugging purposes, although it can be used for other purposes. 
+No documentation as of yet, but I might add some later.
 
-All the functions are meant to be decorators.
+All the functions are decorators.
